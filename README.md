@@ -37,6 +37,12 @@ cd genai-virtual-keyboard
 ## ▶️ Run the App
 Streamlit run app.py
 
+## 🖼️ App Screenshot
+
+![GenAI Virtual Keyboard Screenshot](Screenshot%20(1203).png)  
+*Above: The GenAI Virtual Keyboard with voice input and AI response generation.*
+
+
 
 ## 🙌 Credits
 
