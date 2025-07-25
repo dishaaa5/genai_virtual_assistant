@@ -39,7 +39,8 @@ Streamlit run app.py
 
 ## 🖼️ App Screenshot
 
-![GenAI Virtual Keyboard Screenshot](Screenshot%20(1203).png)  
+![GenAI Virtual Assistant](genai_virtual_keyboard/genai_virtual_assistant.png)
+
 *Above: The GenAI Virtual Keyboard with voice input and AI response generation.*
 
 
